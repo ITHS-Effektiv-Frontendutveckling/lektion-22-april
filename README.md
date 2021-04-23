@@ -25,3 +25,7 @@ Vad är ett REST API?: https://www.youtube.com/watch?v=SLwpqD8n3d0
 Hur man bygger ett REST API: https://www.youtube.com/watch?v=pKd0Rpw7O48
 
 ## Inspelningar
+
+Förmiddag: https://ithogskolan.sharepoint.com/sites/Frontendutvecklare2020/Delade%20dokument/Effektiv%20frontendutveckling/Recordings/Lektion%20-%20Torsdagar-20210422_090948-M%C3%B6tesinspelning.mp4?web=1
+
+Eftermiddag: https://ithogskolan.sharepoint.com/sites/Frontendutvecklare2020/Delade%20dokument/Effektiv%20frontendutveckling/Recordings/Lektion%20-%20Torsdagar-20210422_143631-M%C3%B6tesinspelning.mp4?web=1
